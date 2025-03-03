@@ -18,19 +18,13 @@ Instacart, an online grocery store that operates through an app. Instacart alrea
 
 Description of folder contents are as follows:
 
-01 Project Management: Contains the project brief and related documentation.
+ Project Management: Contains the project brief.
 
-02 Data: Includes two subfolders: (Data not uploaded to GitHub due to size limitations.)
+ Scripts: Python code for the analysis, executed using Jupyter notebooks.
 
-'Original Data': Original datasets.
+ Analysis: Contains the 'Visualizations' subfolder with all visualizations used for exploratory analysis and explaining insights.
 
-'Prepared Data': Cleaned data ready for analysis.
-
-03 Scripts: Python code for the analysis, executed using Jupyter notebooks.
-
-04 Analysis: Contains the 'Visualizations' subfolder with all visualizations used for exploratory analysis and explaining insights.
-
-05 Sent to Client: Final Excel presentation.
+ Sent to Client: Final Excel presentation.
 
 
 ## 
