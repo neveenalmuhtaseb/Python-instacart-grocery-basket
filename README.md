@@ -27,5 +27,6 @@ Description of folder contents are as follows:
 05 Sent to Client: Final Excel presentation.
 
 
+## 
 Note: Instacart is a real company that’s made their data available online. However, the contents of this project brief
 have been fabricated for the purpose of this Achievement.
