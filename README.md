@@ -5,14 +5,23 @@ Instacart, an online grocery store that operates through an app. Instacart alrea
 ## Key Questions
 
 1.What are the busiest days of the week and hours of the day?
+
 2.At what times do customers spend the most money?
+
 3.With Instacart’s wide range of product prices, what recommendations can simplify price range groupings to better guide marketing efforts?
+
 4.Are there specific types of products that are more popular than others?
+
 5.How is brand loyalty distributed among users?
+
 6.Do ordering habits vary based on a customer’s loyalty status?
+
 7.Are there differences in ordering habits based on a customer’s region?
+
 8.Is there a connection between age and family status regarding ordering habits?
+
 9.What classifications can be derived from demographic information, such as age, income, types of goods, and family status?
+
 
 ## Folders
 
